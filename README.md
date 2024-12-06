@@ -1,4 +1,4 @@
-##Learned From Udemy Course (The Complete JavaScript Course 2024 : From Zero to Expert!): Focuses more on Javascript concepts<br>
+## Learned From Udemy Course (The Complete JavaScript Course 2024 : From Zero to Expert!): Focuses more on Javascript concepts<br>
 <br>
 ![image](https://github.com/user-attachments/assets/3e85182c-4394-4b80-87d1-ac7202459c05)
 Acquired development and debugging skills in Javascript<br>

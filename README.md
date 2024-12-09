@@ -4,4 +4,3 @@
 https://jtan0284.github.io/MaptyProjectUdemy/<br>
 <b>Key Features</b>: Interactive Map Integration (Leaflet.js), Geolocation API, Data Handling (local storage from browser)<br>
 <b>Date</b>: 7 July 2022<br>
-![image](https://github.com/user-attachments/assets/317d94ad-c925-46c5-b255-a52f0762994f)
